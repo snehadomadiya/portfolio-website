@@ -39,3 +39,29 @@
     background-color: #FFFFFF;
     border-width: 1.33px;
 }
+.home{
+    height: 100%;
+    padding: 120px 85px;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-button{
+    background-color: #5E3BEE; 
+    color: #FFFFFF;
+    height: 27px;
+    width: 120px;
+    border-radius: 5px;
+    padding: 16.67px 12.67px;
+    border-style: none;
+    font-weight: 400;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.home-img{  
+    width: 50%;
+}
+
